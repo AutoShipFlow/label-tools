@@ -57,6 +57,10 @@
 3. 打开对应的 AutoShipFlow 工具处理 PDF 或图片。
 4. 先检查处理后预览，再用正确纸张尺寸和 100% / 实际大小打印。
 
+## 内容策略
+
+查看 [Content Strategy](./CONTRIBUTING-CONTENT.md)，了解这个仓库如何区分稳定排查文档和开放式 GitHub issue 场景收集。
+
 ## 重要边界
 
 AutoShipFlow 在线工具可以调整 PDF 页面、裁掉空白、改变标签尺寸、合并文件，并生成适合打印的 PDF。它不能读取或修改打印机里实际装了什么纸。

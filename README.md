@@ -57,6 +57,10 @@ Use this repository as a troubleshooting map:
 3. Open the matching AutoShipFlow tool to process the PDF or image.
 4. Preview the result, then print with the correct paper size and 100% / Actual size scale.
 
+## Content Strategy
+
+See [Content Strategy](./CONTRIBUTING-CONTENT.md) for how this repository separates stable troubleshooting guides from open-ended GitHub issue collection topics.
+
 ## Important Boundary
 
 AutoShipFlow online tools can adjust PDF pages, crop blank space, resize labels, merge files, and generate printable PDFs. They cannot read or change the actual paper loaded in your printer.
