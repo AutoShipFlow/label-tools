@@ -34,12 +34,12 @@
 
 - **扫描物流标签上的条码和二维码**：从 PDF 或图片中读取 Code 128、QR、Data Matrix、PDF417 等标签条码。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/barcode-scan)
 
-### 追踪号工作流
+### 物流跟踪号工作流
 
-适合按追踪号整理一批物流标签文件。
+适合按跟踪号整理一批物流标签文件。
 
-- **从标签 PDF 或图片中提取追踪号**：不用逐个文件手动看面单，直接复制或整理追踪号。 [📖 详情](./docs/zh-CN/shipping-workflows/extract-tracking-numbers.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
-- **按追踪号重命名物流标签文件**：拆分合并 PDF，并按追踪号下载单页标签文件，方便仓库归档或 ERP 导入。 [📖 详情](./docs/zh-CN/shipping-workflows/rename-labels-by-tracking-number.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-renamer)
+- **从标签 PDF 或图片中提取物流跟踪号**：不用逐个文件手动看面单，直接复制或整理跟踪号。 [📖 详情](./docs/zh-CN/shipping-workflows/extract-tracking-numbers.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
+- **按物流跟踪号重命名标签文件**：拆分合并 PDF，并按跟踪号下载单页标签文件，方便仓库归档或 ERP 导入。 [📖 详情](./docs/zh-CN/shipping-workflows/rename-labels-by-tracking-number.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-renamer)
 - **拆分合并的物流标签 PDF**：把一个多页面单 PDF 拆成单个标签文件。 [📖 详情](./docs/zh-CN/shipping-workflows/split-merged-shipping-label-pdf.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/split-label)
 
 ### 标签编辑和仓库标签
@@ -56,7 +56,7 @@
 - [标签裁白边](https://www.autoshipflow.com/zh-cn/tools/crop-label)
 - [图片转 PDF 标签](https://www.autoshipflow.com/zh-cn/tools/image-to-pdf-label)
 - [条码和二维码扫描](https://www.autoshipflow.com/zh-cn/tools/barcode-scan)
-- [提取追踪号](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
+- [提取跟踪号](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
 - [面单重命名](https://www.autoshipflow.com/zh-cn/tools/label-renamer)
 - [标签 PDF 拆分](https://www.autoshipflow.com/zh-cn/tools/split-label)
 - [标签编辑器](https://www.autoshipflow.com/zh-cn/tools/label-editor)
