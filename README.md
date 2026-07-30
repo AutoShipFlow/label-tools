@@ -6,38 +6,39 @@ A public knowledge base and free online tool directory for shipping label PDFs, 
 
 This repository contains public documentation, troubleshooting guides, and links to AutoShipFlow online tools. It does not include the AutoShipFlow application source code.
 
-## What You Can Fix
+## Choose a Label Problem
 
-- Shipping labels print too small
-- Shipping labels have too much blank space
-- Shipping labels print too large or across two pages
-- Resize shipping label PDFs to 4 x 6 in or 100 x 150 mm
-- Fix thermal label paper size mismatch
-- Convert label images to printable PDFs
-- Scan barcodes and QR codes from shipping labels
-- Extract tracking numbers from label PDFs or images
+Start from the problem you see, then either read the troubleshooting guide or open the matching online tool.
 
-## Start Here
+### Printing Size and Paper Mismatch
 
-### Label Printing
+For labels that print too small, too large, with extra blank space, across two pages, or on the wrong thermal label paper.
 
-- [Shipping label prints too small](./docs/en/label-printing/label-prints-too-small.md)
-- [Resize shipping label PDF to 4x6](./docs/en/label-printing/resize-shipping-label-to-4x6.md)
-- [Crop blank space from shipping label PDF](./docs/en/label-printing/crop-blank-space-from-label-pdf.md)
-- [Shipping label prints on two pages](./docs/en/label-printing/label-prints-on-two-pages.md)
-- [Thermal label paper size mismatch](./docs/en/label-printing/thermal-label-paper-size-mismatch.md)
+- **Shipping label prints too small**: crop blank space and fit the label to the real paper size. [📖 Guide](./docs/en/label-printing/label-prints-too-small.md) · [🚀 Try](https://www.autoshipflow.com/tools/label-printing-ai)
+- **Resize shipping label PDF to 4x6**: prepare carrier labels for common 4 x 6 in thermal label printers. [📖 Guide](./docs/en/label-printing/resize-shipping-label-to-4x6.md) · [🚀 Try](https://www.autoshipflow.com/tools/label-printing-ai)
+- **Crop blank space from a label PDF**: remove large margins that make the printed label look tiny. [📖 Guide](./docs/en/label-printing/crop-blank-space-from-label-pdf.md) · [🚀 Try](https://www.autoshipflow.com/tools/crop-label)
+- **Shipping label prints on two pages**: fit one complete label onto one selected label page. [📖 Guide](./docs/en/label-printing/label-prints-on-two-pages.md) · [🚀 Try](https://www.autoshipflow.com/tools/label-printing-ai)
+- **Thermal label paper size mismatch**: separate PDF layout issues from printer paper, scale, margin, or driver settings. [📖 Guide](./docs/en/label-printing/thermal-label-paper-size-mismatch.md) · [🚀 Try](https://www.autoshipflow.com/tools/label-printing-ai)
 
-### PDF Label Tools
+### PDF Label Preparation
 
-Coming soon.
+For preparing label files before printing, sharing, or batch processing.
 
-### Barcode Labels
+- **Resize PDF label pages**: change label PDF page size for 4x6, 4x4, 100 x 150 mm, or custom label paper. [🚀 Try](https://www.autoshipflow.com/tools/pdf-resize)
+- **Crop PDF label content**: remove blank space or crop to a specific label area. [🚀 Try](https://www.autoshipflow.com/tools/crop-label)
+- **Convert label images to PDF**: turn PNG, JPG, or WebP label images into printable label PDFs. [🚀 Try](https://www.autoshipflow.com/tools/image-to-pdf-label)
 
-Coming soon.
+### Barcode and QR Labels
 
-### Shipping Workflows
+For reading barcode data from shipping labels, product labels, and warehouse labels.
 
-Coming soon.
+- **Scan barcodes and QR codes from shipping labels**: read Code 128, QR, Data Matrix, PDF417, and other label codes from PDFs or images. [🚀 Try](https://www.autoshipflow.com/tools/barcode-scan)
+
+### Tracking Number Workflows
+
+For organizing batches of shipping labels by tracking number.
+
+- **Extract tracking numbers from label PDFs or images**: copy tracking numbers from shipping labels without manually reading each file. [🚀 Try](https://www.autoshipflow.com/tools/extract-tracking-numbers)
 
 ## Free Online Tools
 

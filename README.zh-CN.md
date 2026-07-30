@@ -6,38 +6,39 @@
 
 这个仓库只包含公开文档、排查指南和 AutoShipFlow 在线工具链接，不包含 AutoShipFlow 应用源码。
 
-## 你可以解决哪些问题
+## 选择你遇到的标签问题
 
-- 标签打印出来太小
-- 标签周围空白太多
-- 标签打印太大或打印到两张纸
-- 把物流标签 PDF 调整为 4x6 或 100 x 150 mm
-- 热敏标签纸尺寸不匹配
-- 把标签图片转成可打印 PDF
-- 扫描物流标签上的条码和二维码
-- 从标签 PDF 或图片中提取追踪号
+先从你看到的问题出发，再选择阅读排查文档，或直接打开对应的在线工具处理文件。
 
-## 从这里开始
+### 打印尺寸和纸张不匹配
 
-### 标签打印
+适合处理标签打印太小、太大、空白太多、打印到两张纸，或和热敏标签纸尺寸不匹配的问题。
 
-- [标签打印出来太小](./docs/zh-CN/label-printing/label-prints-too-small.md)
-- [把物流标签 PDF 调整为 4x6](./docs/zh-CN/label-printing/resize-shipping-label-to-4x6.md)
-- [裁掉物流标签 PDF 的多余空白](./docs/zh-CN/label-printing/crop-blank-space-from-label-pdf.md)
-- [标签打印到两张纸](./docs/zh-CN/label-printing/label-prints-on-two-pages.md)
-- [热敏标签纸尺寸不匹配](./docs/zh-CN/label-printing/thermal-label-paper-size-mismatch.md)
+- **标签打印出来太小**：裁掉多余空白，并把标签适配到真实纸张尺寸。 [📖 详情](./docs/zh-CN/label-printing/label-prints-too-small.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-printing-ai)
+- **把物流标签 PDF 调整为 4x6**：把平台或承运商导出的标签调整为常见 4 x 6 in 热敏标签纸。 [📖 详情](./docs/zh-CN/label-printing/resize-shipping-label-to-4x6.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-printing-ai)
+- **裁掉标签 PDF 的多余空白**：去掉大白边，避免标签内容被缩得很小。 [📖 详情](./docs/zh-CN/label-printing/crop-blank-space-from-label-pdf.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/crop-label)
+- **标签打印到两张纸**：把一个完整标签适配到一张目标标签纸上。 [📖 详情](./docs/zh-CN/label-printing/label-prints-on-two-pages.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-printing-ai)
+- **热敏标签纸尺寸不匹配**：区分 PDF 文件尺寸问题和打印机纸张、缩放、边距或驱动设置问题。 [📖 详情](./docs/zh-CN/label-printing/thermal-label-paper-size-mismatch.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-printing-ai)
 
-### PDF 标签工具
+### PDF 标签文件准备
 
-陆续补充。
+适合在打印、发送给仓库或批量处理前，先整理标签 PDF 或标签图片。
 
-### 条码标签
+- **调整 PDF 标签页面尺寸**：把标签 PDF 改成 4x6、4x4、100 x 150 mm 或自定义标签纸尺寸。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/pdf-resize)
+- **裁剪 PDF 标签内容**：裁掉空白区域，或手动裁出指定标签区域。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/crop-label)
+- **把标签图片转成 PDF**：把 PNG、JPG、WebP 标签图片转成可打印 PDF。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/image-to-pdf-label)
 
-陆续补充。
+### 条码和二维码标签
 
-### 发货标签工作流
+适合从物流标签、产品标签和仓库标签中读取条码数据。
 
-陆续补充。
+- **扫描物流标签上的条码和二维码**：从 PDF 或图片中读取 Code 128、QR、Data Matrix、PDF417 等标签条码。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/barcode-scan)
+
+### 追踪号工作流
+
+适合按追踪号整理一批物流标签文件。
+
+- **从标签 PDF 或图片中提取追踪号**：不用逐个文件手动看面单，直接复制或整理追踪号。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
 
 ## 免费在线工具
 
