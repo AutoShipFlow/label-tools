@@ -38,7 +38,16 @@ For reading barcode data from shipping labels, product labels, and warehouse lab
 
 For organizing batches of shipping labels by tracking number.
 
-- **Extract tracking numbers from label PDFs or images**: copy tracking numbers from shipping labels without manually reading each file. [🚀 Try](https://www.autoshipflow.com/tools/extract-tracking-numbers)
+- **Extract tracking numbers from label PDFs or images**: copy tracking numbers from shipping labels without manually reading each file. [📖 Guide](./docs/en/shipping-workflows/extract-tracking-numbers.md) · [🚀 Try](https://www.autoshipflow.com/tools/extract-tracking-numbers)
+- **Rename shipping label files by tracking number**: split merged label PDFs and download files named by tracking number for warehouse archives or ERP uploads. [📖 Guide](./docs/en/shipping-workflows/rename-labels-by-tracking-number.md) · [🚀 Try](https://www.autoshipflow.com/tools/label-renamer)
+- **Split merged shipping label PDFs**: turn one multi-page label PDF into separate single-label files. [📖 Guide](./docs/en/shipping-workflows/split-merged-shipping-label-pdf.md) · [🚀 Try](https://www.autoshipflow.com/tools/split-label)
+
+### Label Editing and Warehouse Labels
+
+For adding internal notes, covering old content, or making small warehouse labels.
+
+- **Edit shipping label content**: add SKU notes, bin locations, picking remarks, or white cover blocks to a PDF or image label. [🚀 Try](https://www.autoshipflow.com/tools/label-editor)
+- **Create SKU, product, and bin labels**: make printable SKU labels with text, barcode, or QR code for warehouse and inventory workflows. [🚀 Try](https://www.autoshipflow.com/tools/sku-label-generator)
 
 ## Free Online Tools
 
@@ -48,6 +57,10 @@ For organizing batches of shipping labels by tracking number.
 - [Image to PDF Label](https://www.autoshipflow.com/tools/image-to-pdf-label)
 - [Barcode & QR Scanner](https://www.autoshipflow.com/tools/barcode-scan)
 - [Extract Tracking Numbers](https://www.autoshipflow.com/tools/extract-tracking-numbers)
+- [Label Renamer](https://www.autoshipflow.com/tools/label-renamer)
+- [Split Label PDF](https://www.autoshipflow.com/tools/split-label)
+- [Label Editor](https://www.autoshipflow.com/tools/label-editor)
+- [SKU Label Maker](https://www.autoshipflow.com/tools/sku-label-generator)
 
 ## How to Use This Repository
 

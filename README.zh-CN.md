@@ -38,7 +38,16 @@
 
 适合按追踪号整理一批物流标签文件。
 
-- **从标签 PDF 或图片中提取追踪号**：不用逐个文件手动看面单，直接复制或整理追踪号。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
+- **从标签 PDF 或图片中提取追踪号**：不用逐个文件手动看面单，直接复制或整理追踪号。 [📖 详情](./docs/zh-CN/shipping-workflows/extract-tracking-numbers.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
+- **按追踪号重命名物流标签文件**：拆分合并 PDF，并按追踪号下载单页标签文件，方便仓库归档或 ERP 导入。 [📖 详情](./docs/zh-CN/shipping-workflows/rename-labels-by-tracking-number.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-renamer)
+- **拆分合并的物流标签 PDF**：把一个多页面单 PDF 拆成单个标签文件。 [📖 详情](./docs/zh-CN/shipping-workflows/split-merged-shipping-label-pdf.md) · [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/split-label)
+
+### 标签编辑和仓库标签
+
+适合添加内部备注、遮盖旧内容，或制作小型仓库标签。
+
+- **编辑物流标签内容**：给 PDF 或图片标签添加 SKU、库位、拣货备注，或用白底遮盖旧内容。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/label-editor)
+- **生成 SKU、产品和库位标签**：制作带文字、条码或二维码的可打印 SKU 标签，用于仓库和库存流程。 [🚀 体验](https://www.autoshipflow.com/zh-cn/tools/sku-label-generator)
 
 ## 免费在线工具
 
@@ -48,6 +57,10 @@
 - [图片转 PDF 标签](https://www.autoshipflow.com/zh-cn/tools/image-to-pdf-label)
 - [条码和二维码扫描](https://www.autoshipflow.com/zh-cn/tools/barcode-scan)
 - [提取追踪号](https://www.autoshipflow.com/zh-cn/tools/extract-tracking-numbers)
+- [面单重命名](https://www.autoshipflow.com/zh-cn/tools/label-renamer)
+- [标签 PDF 拆分](https://www.autoshipflow.com/zh-cn/tools/split-label)
+- [标签编辑器](https://www.autoshipflow.com/zh-cn/tools/label-editor)
+- [SKU 标签生成器](https://www.autoshipflow.com/zh-cn/tools/sku-label-generator)
 
 ## 如何使用这个仓库
 
